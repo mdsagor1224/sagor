@@ -77,3 +77,7 @@ circles.forEach(elem=>{
 
     elem.innerHTML = points;
 })
+
+
+// mix portfolio section
+var mixer = mixitup('.portfolio-gallery');
